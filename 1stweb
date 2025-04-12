@@ -1,0 +1,55 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Manju - Personal Blog</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f4f4f4; color: #333; }
+    header { background: #333; color: #fff; padding: 20px 0; text-align: center; }
+    nav a { margin: 0 15px; color: white; text-decoration: none; font-weight: bold; }
+    .container { padding: 20px; max-width: 800px; margin: auto; }
+    h1, h2 { color: #444; }
+    .post { background: white; padding: 15px; margin-bottom: 20px; border-radius: 8px; }
+    footer { text-align: center; padding: 20px; background: #333; color: white; margin-top: 30px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Manju</h1>
+    <nav>
+      <a href="#home">Home</a>
+      <a href="#about">About</a>
+      <a href="#blog">Blog</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>  <div class="container">
+    <section id="home">
+      <h2>Welcome to My Personal Blog</h2>
+      <p>Hi, I'm Manju. This blog is where I share my thoughts, life experiences, and everything that inspires me.</p>
+    </section><section id="about">
+  <h2>About Me</h2>
+  <p>I work in the steel industry, but I'm also passionate about learning, growing, and sharing my journey. Here, you'll find stories from my daily life, things I’ve learned, and personal reflections.</p>
+</section>
+
+<section id="blog">
+  <h2>Latest Posts</h2>
+  <div class="post">
+    <h3>My First Blog Post</h3>
+    <p>This is a sample post. You can write about your workday, what motivates you, or anything you like!</p>
+  </div>
+  <div class="post">
+    <h3>Why I Started This Blog</h3>
+    <p>I wanted a place to express myself and connect with others. Blogging gives me that freedom.</p>
+  </div>
+</section>
+
+<section id="contact">
+  <h2>Contact Me</h2>
+  <p>Email: yourname@example.com</p>
+</section>
+
+  </div>  <footer>
+    <p>&copy; 2025 Manju. All rights reserved.</p>
+  </footer>
+</body>
+</html>
